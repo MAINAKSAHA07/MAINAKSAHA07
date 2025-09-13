@@ -41,7 +41,7 @@
   Built the *Audio-Vibration Rating Explorer*:  
   → Interactive web app with 4,000 ratings  
   → ML pipeline for converting sounds into vibration types  
-  → Real-time waveform + spectrogram playback, S3 + CDN integration  
+  → Real-time waveform + spectrogram playback,EC2, S3 + CDN integration  
 
 - **Graduate Research Assistant, ASU Adidas Project**  
   Designed and shipped a **real-time iOS computer vision app**:  
