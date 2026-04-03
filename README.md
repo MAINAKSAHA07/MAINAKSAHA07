@@ -3,6 +3,7 @@
 🎓 Master’s student in **Robotics & Automation Systems (AI)** at Arizona State University  
 💻 AI/ML Engineer | Full-Stack Developer | Robotics Programmer  
 🚀 Startup enthusiast, critical thinker, and builder of impactful tech  
+![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/0cf55070-45bb-4bd0-b044-28636a1428aa)
 
 ---
 
